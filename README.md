@@ -31,6 +31,12 @@ I'm a passionate Full Stack Developer with 4+ years of hands-on experience build
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![gRPC](https://img.shields.io/badge/-gRPC-6DB33F?style=flat)
 
+
+**Testing & QA:**  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest)
+
+
 **Cloud & DevOps:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
