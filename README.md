@@ -53,7 +53,7 @@ Currently working at **Rolec Services Ltd** delivering modern applications acros
 
 - 📫 [Email](mailto:udayreddz@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/udayreddz)
-- 🌍 [Portfolio](#) *(optional if hosted)*
+
 
 ---
 
