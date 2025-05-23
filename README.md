@@ -30,6 +30,8 @@ I'm a passionate Full Stack Developer with 4+ years of hands-on experience build
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![gRPC](https://img.shields.io/badge/-gRPC-6DB33F?style=flat)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle-8E44AD?style=flat&logo=drizzle&logoColor=white)
+
 
 
 **Testing & QA:**  
