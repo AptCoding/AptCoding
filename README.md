@@ -12,7 +12,6 @@ I'm a passionate Full Stack Developer with 4+ years of hands-on experience build
 - 🔁 Automating workflows using **CI/CD pipelines** via GitHub Actions and Jenkins
 - 🔍 Writing robust, testable, and maintainable code in production-grade systems
 
-Currently working at **Rolec Services Ltd** delivering modern applications across IoT, Web, and Mobile platforms.
 
 ---
 
