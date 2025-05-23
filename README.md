@@ -38,26 +38,8 @@ Currently working at **Rolec Services Ltd** delivering modern applications acros
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AptCoding&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AptCoding&theme=tokyonight&hide_border=false" width="48%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AptCoding&layout=compact&theme=tokyonight&langs_count=6&hide=html" width="48%"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-> 📈 I actively contribute to both personal and organizational projects.
-
-![GitHub Snake](https://raw.githubusercontent.com/AptCoding/AptCoding/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🌱 Currently Exploring
 
